@@ -1,0 +1,18 @@
+1. git init
+2. git branch -M main
+
+3. git commit -m "chore, docs, feat or fix"
+    chore: structure/organization
+    docs: documentation/examples
+    feat: new feature
+    fix: bug fixes
+
+// install packets permanently in the project
+4. npm install react-native
+
+5. npx @react-native-community/cli@latest init NFCReaderApp
+    npx -> exec without installing
+    @react-... -> Packet's name
+    @latest -> Version
+    init -> Command
+    NFCReaderApp -> App name
